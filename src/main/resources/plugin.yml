@@ -1,0 +1,4 @@
+name: ExampleEnchantPlugin
+authors: [ SupremeDev, Savag3life ]
+version: 1.0.0
+main: life.savag3.example.Core
